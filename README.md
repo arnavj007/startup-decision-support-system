@@ -10,4 +10,4 @@ news-rag-module : https://huggingface.co/datasets/suku9/business_news_sentiment
 arnavj007/gemma-business-instruct-finetune
 
 ## youtube video
-https://youtu.be/yfv9JUUi9kE
+https://youtu.be/h5YNQ6FpnSM?si=yPdvUBvCecuLxXIO
